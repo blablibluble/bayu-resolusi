@@ -2,6 +2,7 @@ RENCANA CONTENT BAYU
 - Javascript
   * es6
   * framework javascript
+  * angular
 - fundamental
 - PHP Framework
 - interview
