@@ -3,6 +3,7 @@ RENCANA CONTENT BAYU
   * es6
   * framework javascript
   * vue
+  * react
 - fundamental
 - PHP Framework
  * laravel
